@@ -12,3 +12,9 @@ This project analyzes mobile data trends, including usage patterns, pricing, and
 - Python 3.x
 - Jupyter Notebook
 - Pandas, NumPy, Matplotlib, Seaborn.
+
+## Dataset used
+<a href=https://github.com/Bharath-2112/Mobile_Data_Analysis-Python-/blob/main/Mobiles%20Dataset%20(2025).csv>Dataset</a>
+
+## Final Conclusion
+> The Mobile Data Analysis project provides valuable insights into usage patterns, pricing trends, and network performance across different regions. Our analysis highlights key trends shaping the mobile industry:
